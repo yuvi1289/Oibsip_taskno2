@@ -18,3 +18,4 @@ This BMI Calculator is a graphical user interface application designed to calcul
 - Python 3.x
 - Tkinter library
 
+![Weather App Screenshot](/home/yuvijin/Pictures/Screenshots/Screenshot from 2024-04-05 12-09-54.png)
